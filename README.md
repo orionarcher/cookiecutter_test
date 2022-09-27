@@ -1,8 +1,8 @@
 cookiecutter_test
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/cookiecutter_test/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/cookiecutter_test/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/cookiecutter_test/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/cookiecutter_test/branch/main)
+[![GitHub Actions Build Status](https://github.com/orionarcher/cookiecutter_test/workflows/CI/badge.svg)](https://github.com/orionarcher/cookiecutter_test/actions?query=workflow%3ACI)
+[![codecov](https://codecov.io/gh/orionarcher/cookiecutter_test/branch/main/graph/badge.svg)](https://codecov.io/gh/orionarcher/cookiecutter_test/branch/main)
 
 
 a brief test of cookiecutter
